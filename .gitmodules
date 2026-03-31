@@ -3,10 +3,10 @@
 	url = https://github.com/bytedance/deer-flow.git
 [submodule "hello-halo"]
 	path = hello-halo
-	url = ./hello-halo
+	url = https://github.com/openkursar/hello-halo.git
 [submodule "learn-claude-code"]
 	path = learn-claude-code
-	url = ./learn-claude-code
+	url = https://github.com/shareAI-lab/learn-claude-code.git
 [submodule "nanobot"]
 	path = nanobot
-	url = ./nanobot
+	url = https://github.com/HKUDS/nanobot.git
