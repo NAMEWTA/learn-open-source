@@ -1,0 +1,87 @@
+{
+  "name": "learn-open-source",
+  "description": "Open Source Learning Hub - 集中式代码学习平台",
+  "version": "1.0.0",
+  "created": "2026-03-31",
+  
+  "submodules": [
+    {
+      "name": "deer-flow",
+      "path": "deer-flow/",
+      "status": "initialized",
+      "learningFocus": [],
+      "notes": []
+    },
+    {
+      "name": "hello-halo",
+      "path": "hello-halo/",
+      "status": "initialized",
+      "learningFocus": [],
+      "notes": []
+    },
+    {
+      "name": "learn-claude-code",
+      "path": "learn-claude-code/",
+      "status": "initialized",
+      "learningFocus": [],
+      "notes": []
+    },
+    {
+      "name": "nanobot",
+      "path": "nanobot/",
+      "status": "initialized",
+      "learningFocus": [],
+      "notes": []
+    }
+  ],
+  
+  "learningGoals": {
+    "objectives": [
+      "系统性学习优秀开源项目的架构设计",
+      "掌握不同技术栈的最佳实践",
+      "提升代码阅读和分析能力",
+      "积累实际项目开发经验"
+    ],
+    "methodology": [
+      "通读项目文档和架构",
+      "运行示例理解功能",
+      "深入核心代码分析",
+      "做详细的学习笔记",
+      "实践和扩展功能"
+    ]
+  },
+  
+  "workflow": {
+    "setup": [
+      "git submodule update --init --recursive",
+      "为每个子模块创建学习分支",
+      "制定学习计划"
+    ],
+    "dailyStudy": [
+      "选择子模块进行学习",
+      "阅读和分析代码",
+      "记录学习笔记",
+      "提交学习进度"
+    ],
+    "review": [
+      "定期回顾学习笔记",
+      "总结设计模式",
+      "整理知识点"
+    ]
+  },
+  
+  "notesStructure": {
+    "location": "每个子模块的 docs/study-notes/ 目录",
+    "format": "Markdown",
+    "namingConvention": "YYYY-MM-DD-topic.md",
+    "template": {
+      "date": "日期",
+      "topic": "学习主题",
+      "objectives": "学习目标",
+      "analysis": "代码分析",
+      "keyFindings": "关键发现",
+      "questions": "疑问和思考",
+      "summary": "总结"
+    }
+  }
+}

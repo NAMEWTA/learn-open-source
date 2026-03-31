@@ -1,0 +1,12 @@
+[submodule "deer-flow"]
+	path = deer-flow
+	url = https://github.com/bytedance/deer-flow.git
+[submodule "hello-halo"]
+	path = hello-halo
+	url = ./hello-halo
+[submodule "learn-claude-code"]
+	path = learn-claude-code
+	url = ./learn-claude-code
+[submodule "nanobot"]
+	path = nanobot
+	url = ./nanobot
