@@ -10,3 +10,6 @@
 [submodule "nanobot"]
 	path = nanobot
 	url = https://github.com/HKUDS/nanobot.git
+[submodule "claude-code"]
+	path = claude-code
+	url = https://github.com/claude-code-best/claude-code.git

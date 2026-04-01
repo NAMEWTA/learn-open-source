@@ -32,6 +32,13 @@
       "status": "initialized",
       "learningFocus": [],
       "notes": []
+    },
+    {
+      "name": "claude-code",
+      "path": "claude-code/",
+      "status": "initialized",
+      "learningFocus": [],
+      "notes": []
     }
   ],
   
