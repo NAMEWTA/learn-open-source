@@ -13,3 +13,6 @@
 [submodule "claude-code"]
 	path = claude-code
 	url = https://github.com/claude-code-best/claude-code.git
+[submodule "OpenHarness"]
+	path = OpenHarness
+	url = https://github.com/HKUDS/OpenHarness.git
