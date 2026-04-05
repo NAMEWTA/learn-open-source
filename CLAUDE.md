@@ -42,11 +42,15 @@ learn-open-source/
 │   ├── hello-halo/            # hello-halo 学习笔记
 │   ├── learn-claude-code/     # learn-claude-code 学习笔记
 │   ├── nanobot/               # nanobot 学习笔记
+│   ├── OpenHarness/           # OpenHarness 学习笔记
+│   ├── claude-code/           # claude-code 学习笔记
 │   └── ...                    # 新增子模块时同步创建对应目录
 ├── deer-flow/                 # [子模块·只读] bytedance/deer-flow
 ├── hello-halo/                # [子模块·只读] openkursar/hello-halo
 ├── learn-claude-code/         # [子模块·只读] shareAI-lab/learn-claude-code
-└── nanobot/                   # [子模块·只读] HKUDS/nanobot
+├── nanobot/                   # [子模块·只读] HKUDS/nanobot
+├── OpenHarness/               # [子模块·只读] HKUDS/OpenHarness
+└── claude-code/               # [子模块·只读] claude-code-best/claude-code
 ```
 
 ## 当前子模块
@@ -57,6 +61,8 @@ learn-open-source/
 | `hello-halo/` | openkursar/hello-halo | Halo 博客平台客户端（Electron + Capacitor） |
 | `learn-claude-code/` | shareAI-lab/learn-claude-code | Claude Code 学习教程（Python） |
 | `nanobot/` | HKUDS/nanobot | AI 智能体框架（Python + Docker） |
+| `OpenHarness/` | HKUDS/OpenHarness | AI 智能体测试框架 |
+| `claude-code/` | claude-code-best/claude-code | Claude Code 相关项目 |
 
 ## 常用命令
 

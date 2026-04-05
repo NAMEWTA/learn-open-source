@@ -8,3 +8,4 @@
 | [hello-halo](hello-halo/) | Halo 博客平台客户端（Electron + Capacitor） | 未开始 |
 | [learn-claude-code](learn-claude-code/) | Claude Code 学习教程（Python） | 未开始 |
 | [nanobot](nanobot/) | AI 智能体框架（Python + Docker） | 未开始 |
+| [OpenHarness](OpenHarness/) | AI 智能体测试框架 | 未开始 |
